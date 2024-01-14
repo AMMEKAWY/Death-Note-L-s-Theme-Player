@@ -1,4 +1,4 @@
-#Death Note L's Theme Player
+Death Note L's Theme Player:
 This Python script generates and plays the iconic L's Theme from Death Note using the Sounddevice library. It utilizes the principles of Eastern music theory to create an octave of notes based on the provided parameters.
 Features:
 
